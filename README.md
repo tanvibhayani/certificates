@@ -30,7 +30,7 @@ ___
 📄 Certificate File:
 ---
 View My Certificate
- [[(or replace with your file path or image link)](https://github.com/tanvibhayani/certificates)](https://github.com/tanvibhayani/certificates/blob/main/machine-learning.png)
+ [(https://github.com/tanvibhayani/certificates)](https://github.com/tanvibhayani/certificates/blob/main/machine-learning.png)
  or
  https://github.com/tanvibhayani/certificates/blob/main/Machine-learning.png
  
