@@ -30,4 +30,4 @@ ___
 📄 Certificate File:
 ---
 View My Certificate
- (or replace with your file path or image link)
+ [(or replace with your file path or image link)](https://github.com/tanvibhayani/certificates)
