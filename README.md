@@ -13,14 +13,14 @@ Welcome to my certification portfolio showcasing my journey in Artificial Intell
 
 🎓 2️⃣ FreeCodeCamp – Machine Learning with Python
 🖼 Certificate Preview
-<p align="center"> <img src="https://raw.githubusercontent.com/tanvibhayani/certificates/main/freecodecamp.png" width="600"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/tanvibhayani/certificates/main/machine-learning.png" width="600"/> </p>
 📄 View Certificate
 
 🔗 FreeCodeCamp ML Certificate
 
 🏆 3️⃣ IBM – Machine Learning with Python
 🖼 Certificate Preview
-<p align="center"> <img src="https://raw.githubusercontent.com/tanvibhayani/certificates/main/ibm.png" width="600"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/tanvibhayani/certificates/main/Machine-learning.png" width="600"/> </p>
 📄 View Certificate
 
 🔗 IBM Machine Learning Certificate
