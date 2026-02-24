@@ -1,6 +1,8 @@
-🧠 AI & Machine Learning Certifications Portfolio
+AI & Machine Learning Certifications Portfolio
 
-Welcome to my certification portfolio showcasing my learning journey in Artificial Intelligence, Machine Learning, and Data Science.
+⭐ Actively Learning | Data Science Enthusiast | AI Explorer
+
+Welcome to my certification portfolio showcasing my journey in Artificial Intelligence, Machine Learning, and Data Science.
 
 📜 1️⃣ Machine Learning Certification
 📘 About the Certification
@@ -19,21 +21,23 @@ Real-World ML Applications
 
 🛠 Skills Gained
 
-Python for ML
+Python for Machine Learning
 
-NumPy & Pandas for data manipulation
+NumPy & Pandas for Data Manipulation
 
-Scikit-learn for model building
+Scikit-learn for Model Building
 
-Model evaluation techniques
+Model Evaluation Techniques
 
 🎯 Objective
 
 To build intelligent systems that can learn from data and make accurate predictions.
 
-📄 View Certificate
+🖼 Certificate Preview
+<p align="center"> <img src="machine-learning.png" width="600"/> </p>
+📄 View Full Certificate
 
-🔗 Machine Learning Certificate
+🔗 Click Here to View Machine Learning Certificate
 
 🤖 2️⃣ AI & Machine Learning Internship Completion Certificate
 🏢 Organization
@@ -44,13 +48,13 @@ Sparks To Ideas – Data Science & AI Internship
 
 Worked on real-world datasets
 
-Performed Data Cleaning & EDA
+Performed Data Cleaning & Exploratory Data Analysis (EDA)
 
-Built Machine Learning models
+Built and evaluated Machine Learning models
 
-Created visualizations using Python & Power BI
+Created dashboards & visualizations using Python & Power BI
 
-Applied ML algorithms for predictive analysis
+Applied ML algorithms for predictive analytics
 
 🛠 Tools & Technologies Used
 
@@ -66,12 +70,14 @@ Excel
 
 🎯 Outcome
 
-Successfully completed the internship with hands-on experience in AI and Machine Learning workflows.
+Successfully completed the internship with practical experience in end-to-end AI & Machine Learning workflows.
 
-📄 View Internship Certificate
+🖼 Internship Certificate Preview
+<p align="center"> <img src="Sparks_datascience.jpg" width="600"/> </p>
+📄 View Full Internship Certificate
 
-🔗 AI & ML Internship Certificate
+🔗 Click Here to View AI & ML Internship Certificate
 
 🚀 Career Focus
 
-I am passionate about Data Science, Machine Learning, and AI-driven solutions, and continuously working on real-world projects to strengthen my technical expertise
+I am passionate about Data Science, Machine Learning, and AI-driven solutions, and continuously building real-world projects to strengthen my technical expertise and problem-solving abilities.
