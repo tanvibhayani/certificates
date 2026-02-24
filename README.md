@@ -1,36 +1,77 @@
-🧠 Machine Learning Certificate
----
-This repository contains my Machine Learning certificate, showcasing my learning journey in the field of Artificial Intelligence and Data Science.
-___
+🧠 AI & Machine Learning Certifications Portfolio
 
-📘 About this Certificate:
----
-This certificate represents my successful completion of a Machine Learning course, where I learned about:
+Welcome to my certification portfolio showcasing my learning journey in Artificial Intelligence, Machine Learning, and Data Science.
 
-Data preprocessing & feature engineering
+📜 1️⃣ Machine Learning Certification
+📘 About the Certification
 
-Supervised and unsupervised learning
+Successfully completed a comprehensive Machine Learning course, covering:
 
-Model training and evaluation
+Data Preprocessing & Feature Engineering
 
-Real-world ML applications
-___
-🎯 Objective:
----
-To explore how machines can learn from data and make predictions effectively.
-___
-🏆 Certificate Highlights:
----
-Completed hands-on projects and assignments
+Supervised Learning (Regression & Classification)
 
-Gained experience with Python, NumPy, Pandas, and Scikit-learn
+Unsupervised Learning (Clustering)
 
-Improved understanding of AI concepts
-___
-📄 Certificate File:
----
-View My Certificate
- [(https://github.com/tanvibhayani/certificates)](https://github.com/tanvibhayani/certificates/blob/main/machine-learning.png)
- or
- https://github.com/tanvibhayani/certificates/blob/main/Machine-learning.png
- 
+Model Training & Evaluation
+
+Real-World ML Applications
+
+🛠 Skills Gained
+
+Python for ML
+
+NumPy & Pandas for data manipulation
+
+Scikit-learn for model building
+
+Model evaluation techniques
+
+🎯 Objective
+
+To build intelligent systems that can learn from data and make accurate predictions.
+
+📄 View Certificate
+
+🔗 Machine Learning Certificate
+
+🤖 2️⃣ AI & Machine Learning Internship Completion Certificate
+🏢 Organization
+
+Sparks To Ideas – Data Science & AI Internship
+
+📘 Internship Highlights
+
+Worked on real-world datasets
+
+Performed Data Cleaning & EDA
+
+Built Machine Learning models
+
+Created visualizations using Python & Power BI
+
+Applied ML algorithms for predictive analysis
+
+🛠 Tools & Technologies Used
+
+Python
+
+Pandas & NumPy
+
+Scikit-learn
+
+Power BI
+
+Excel
+
+🎯 Outcome
+
+Successfully completed the internship with hands-on experience in AI and Machine Learning workflows.
+
+📄 View Internship Certificate
+
+🔗 AI & ML Internship Certificate
+
+🚀 Career Focus
+
+I am passionate about Data Science, Machine Learning, and AI-driven solutions, and continuously working on real-world projects to strengthen my technical expertise
