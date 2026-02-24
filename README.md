@@ -1,4 +1,4 @@
-AI & Machine Learning Certifications Portfolio
+🧠 AI & Machine Learning Certifications Portfolio
 
 ⭐ Actively Learning | Data Science Enthusiast | AI Explorer
 
@@ -29,17 +29,39 @@ Scikit-learn for Model Building
 
 Model Evaluation Techniques
 
-🎯 Objective
-
-To build intelligent systems that can learn from data and make accurate predictions.
-
 🖼 Certificate Preview
-<p align="center"> <img src="machine-learning.png" width="600"/> </p>
-📄 View Full Certificate
+<p align="center"> <img src="Machine-learning.png" width="600"/> </p>
+📄 View Certificate
 
-🔗 Click Here to View Machine Learning Certificate
+🔗 Machine Learning Certificate
 
-🤖 2️⃣ AI & Machine Learning Internship Completion Certificate
+🎓 2️⃣ FreeCodeCamp – Machine Learning with Python
+📘 Highlights
+
+Completed Machine Learning with Python certification
+
+Worked on practical ML projects
+
+Learned model training, evaluation & deployment basics
+
+📄 View Certificate
+
+🔗 FreeCodeCamp ML Certificate
+
+🏆 3️⃣ IBM – Machine Learning with Python
+📘 Highlights
+
+Gained foundational knowledge of ML concepts
+
+Implemented supervised & unsupervised algorithms
+
+Hands-on practice using Python & Scikit-learn
+
+📄 View Certificate
+
+🔗 IBM Machine Learning Certificate
+
+🤖 4️⃣ AI & Machine Learning Internship Completion Certificate
 🏢 Organization
 
 Sparks To Ideas – Data Science & AI Internship
@@ -56,27 +78,11 @@ Created dashboards & visualizations using Python & Power BI
 
 Applied ML algorithms for predictive analytics
 
-🛠 Tools & Technologies Used
-
-Python
-
-Pandas & NumPy
-
-Scikit-learn
-
-Power BI
-
-Excel
-
-🎯 Outcome
-
-Successfully completed the internship with practical experience in end-to-end AI & Machine Learning workflows.
-
 🖼 Internship Certificate Preview
 <p align="center"> <img src="Sparks_datascience.jpg" width="600"/> </p>
-📄 View Full Internship Certificate
+📄 View Internship Certificate
 
-🔗 Click Here to View AI & ML Internship Certificate
+🔗 Sparks To Ideas Internship Certificate
 
 🚀 Career Focus
 
